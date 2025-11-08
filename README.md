@@ -1,6 +1,3 @@
----
-
-```markdown
 #  Java RabbitMQ Command Dispatcher
 
 **Динамический диспетчер команд через RabbitMQ**
